@@ -2,29 +2,29 @@
   "products": [
     {
       "id": 101,
-      "title": "Rustic Wooden Coffee Table",
-      "description": "Add a touch of vintage charm to your living room with this rustic wooden coffee table.",
-      "image": "https://zufolodesigns.com/cdn/shop/products/11copy.jpg?v=1644587960",
+      "title": "Wooden Center Coffee",
+      "description": "AASALIYA Wooden Center Coffee Table with Storage | Solid Sheesham Wood Centre Table for Living Room, Drawing Room & Office | Walnut Finish",
+      "image": "https://m.media-amazon.com/images/I/61S+dVM6e0L._SL1066_.jpg",
       "rating": 4.8,
-      "price": 1200,
+      "price": 6700,
       "category": "furniture"
     },
     {
       "id": 102,
-      "title": "Minimalist Pendant Light",
-      "description": "Achieve a modern aesthetic with this minimalist pendant light, perfect for any contemporary space.",
-      "image": "https://www.homedecorcompany.in/cdn/shop/files/HDCLed1LightModernPendantLightingBedsideMinimalistAluminium-Black_Square_3.jpg?v=1694436833",
+      "title": "Pendant Light",
+      "description": "Harold Electricals Metal Black Surface Hanging Cob Pendant Light for Living Room, Bedroom, Dining Area, Office, Showroom (12 Watt - Warm White Light)",
+      "image": "https://m.media-amazon.com/images/I/61RhQiJXf6L._SL1500_.jpg",
       "rating": 4.9,
-      "price": 600,
+      "price": 1000,
       "category": "lighting"
     },
     {
       "id": 103,
       "title": "Contemporary Dining Set",
-      "description": "Entertain in style with this sleek and modern dining set, perfect for contemporary homes.",
-      "image": "https://www.relaxstudio.in/wp-content/uploads/2023/04/9-2.jpg",
-      "rating": 4.4,
-      "price": 400,
+      "description": "Suryavanshi Acacia Wood Cone Marble Dining Table And Chair Set - Elegant And Luxurious Dining Experience (Table Only) - 76 Cm, 90 Cm",
+      "image": "https://m.media-amazon.com/images/I/51rcrrr7WmL.jpg",
+      "rating": 2.4,
+      "price": 4000,
       "category": "furniture"
     },
     {
@@ -48,10 +48,10 @@
     {
       "id": 106,
       "title": "Soft Cotton Bedding Set",
-      "description": "Drift into a peaceful slumber with this soft cotton bedding set, promising utmost comfort.",
-      "image": "https://www.saffronmarigold.com/blog/wp-content/uploads/2018/09/SOFT-COTTON-Duvet-Covers-2.jpg",
+      "description": "THE HOME STYLE Super Soft Glace Cotton King Size AC Comforter II Blanket II Duvet for Double Bed with 1 Flat Bedsheet and 2 Pillow Cover (Adam Cream, 4 Piece Comforter Set)",
+      "image": "https://m.media-amazon.com/images/I/71a3lFQSpHL._SL1279_.jpg",
       "rating": 4.5,
-      "price": 1500,
+      "price": 8900,
       "category": "bedding"
     },
     {
